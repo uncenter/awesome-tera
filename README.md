@@ -27,6 +27,7 @@
 - [mise-en-place (mise)](https://github.com/jdx/mise) ![](https://img.shields.io/github/stars/jdx/mise) - The front-end to your dev env
 - [git-cliff](https://github.com/orhun/git-cliff) ![](https://img.shields.io/github/stars/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications
 - [moon](https://github.com/moonrepo/moon) ![](https://img.shields.io/github/stars/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
+- [Cocogitto](https://github.com/cocogitto/cocogitto) ![](https://img.shields.io/github/stars/cocogitto/cocogitto) - The Conventional Commits toolbox
 - [Marmite](https://github.com/rochacbruno/marmite) ![](https://img.shields.io/github/stars/rochacbruno/marmite) - Marmite [**Mar**kdown **m**akes s**ite**s] is a **very!** simple static site generator.
 - [kickstart](https://github.com/Keats/kickstart) ![](https://img.shields.io/github/stars/Keats/kickstart) ![made by author] - A scaffolding tool to get new projects up and running quickly
 - [`runst`](https://github.com/orhun/runst) ![](https://img.shields.io/github/stars/orhun/runst) - A dead simple notification daemon
